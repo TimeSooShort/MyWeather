@@ -1,4 +1,2 @@
 # MyWeather
-This is my fist step
-The MyWeather app
-Use it to improve my android skills.
+书后的例子，传上来练习使用github
